@@ -2,6 +2,8 @@
 	background-color:#ffffff;
 	color:#333333;
         font-family:"メイリオ","Hiragino Kaku Gothic Pro",sans-serif;
+        margin:0;
+        padding:0;
 }
 p{
         font-size:90%;
@@ -11,7 +13,32 @@ h1{
 }
 h2{
         font-size:120%;
+        border-bottom:1px dashed #003366;
+        border-left:10px solid #003366;
+        padding-left:7px;
 }
 footer{
-        text-align : center;
+        text-align: center;
+        border-top:5px solid #003366;
+}
+article{
+        position:relative;
+}
+.catch {
+        position:absolute;
+        top:20px;
+        left:30px;
+        color:#ffffff;
+        text-shadow:0 5px 10px #333333;
+}
+.maingazo{
+        background-color:#0099ff;
+}
+header {
+        background-color: #003366;
+        color: #ffffff;
+}
+ul{
+        list-style-type:none;
+        padding-left:0;
 }
