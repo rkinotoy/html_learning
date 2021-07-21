@@ -54,3 +54,31 @@ ul time{
         padding-right:5px;
         margin-right:5px;
 }
+nav ul{
+        font-weight:bold;
+        text-align: right;
+        padding-top: 26px;
+        padding-bottom: 5px;
+        margin: 0;
+}
+nav li{
+        display:inline;
+        padding-left:10px;
+        padding-right:10px;
+        border-right:1px solid #ffffff;
+}
+header img{
+        float:left;
+}
+article{
+        clear:both;
+        width: 960px;
+        margin-left: auto;
+        margin-right: auto;
+}
+.header-in{
+        width: 960px;
+        margin-left: auto;
+        margin-right: auto;
+}
+
