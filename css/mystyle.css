@@ -91,6 +91,14 @@ article{
         font-weight: bold;
         margin-left: 30px;
 }
+.point-img{
+        float:right;
+        margin-left:20px;
+}
+.sentout{
+        clear:both;
+        text-align:right;
+}
 
 
 /* 959px以下の場合 */
