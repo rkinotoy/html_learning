@@ -81,6 +81,17 @@ article{
         margin-left: auto;
         margin-right: auto;
 }
+.sabu-h1{
+        background-image: linear-gradient(to left,#ffffff,#dcdcdc );
+        padding-left: 10px;
+        border-left: 15px solid #003366;
+}
+.point-list{
+        list-style-image: url(../image/list.gif);
+        font-weight: bold;
+        margin-left: 30px;
+}
+
 
 /* 959px以下の場合 */
 @media(max-width:959px){
