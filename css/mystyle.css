@@ -95,10 +95,25 @@ article{
         float:right;
         margin-left:20px;
 }
-.sentout{
+.sentou{
         clear:both;
         text-align:right;
 }
+ol li{
+        display:inline;
+        margin-right:5px;
+        font-size:80%;
+}
+ol{
+        padding-left:0;
+}
+.page{
+        padding-left:10px;
+        padding-right:10px;
+}
+
+
+
 
 
 /* 959px以下の場合 */
@@ -132,6 +147,9 @@ article{
         .catch{
                 top:5px;
                 left:5px;
+        }
+        .point-img{
+                float:none;
         }
 }
 
