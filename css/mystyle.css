@@ -111,7 +111,13 @@ ol{
         padding-left:10px;
         padding-right:10px;
 }
-
+nav a{
+        text-decoration:none;
+        color:#ffffff;
+}
+nav a:hover{
+        color:#ffcc00;
+}
 
 
 
